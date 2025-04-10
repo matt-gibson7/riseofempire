@@ -3,9 +3,6 @@ import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.util.Random;
 
-// RPG Game by pro coders lol
- // Julian
- // Maxi cheesimir
 
 class Game {
     private final JFrame frame;
