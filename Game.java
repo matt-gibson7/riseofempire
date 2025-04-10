@@ -20,7 +20,7 @@ class Game {
         enemy = new Enemy("Troll", 50, 5); // Erstes Level: Troll 50 HP; 5 AD
     
         // UI Window wird erzeugt
-        frame = new JFrame("Rise of Heroes");
+        frame = new JFrame("Rise of Empire");
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         frame.setSize(1280, 720); // 16:9
         frame.setLayout(new BorderLayout());
